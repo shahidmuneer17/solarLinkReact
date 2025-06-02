@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "start": "vite preview"
+    "preview": "vite preview"
   },
   "dependencies": {
     "node-fetch": "^3.3.2",
