@@ -12,6 +12,7 @@
     "start": "vite preview"
   },
   "dependencies": {
+    "node-fetch": "^3.3.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -19,8 +20,8 @@
     "@netlify/functions": "^4.1.0",
     "@types/react": "^18.2.55",
     "@types/react-dom": "^18.2.18",
+    "@vitejs/plugin-react": "^4.2.1",
     "typescript": "^5.3.3",
-    "vite": "^5.2.0",
-    "@vitejs/plugin-react": "^4.2.1"
+    "vite": "^5.2.0"
   }
 }
